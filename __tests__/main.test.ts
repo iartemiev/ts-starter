@@ -1,7 +1,7 @@
 describe('main test', () => {
-	test(`what's true is...truthy`, () => {
+	test(`placeholder`, () => {
 		const a = 1;
 		const b = a * 2;
-		expect(true).toBeTruthy();
+		expect(b).toEqual(2);
 	});
 });
