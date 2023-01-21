@@ -2,9 +2,10 @@
 
 ## Getting started
 
-1. Fork or clone repo
-2. `npm i`
-3. Open in VS Code and install recommended extensions, accept recommended settings
+1. Click _Use this template_
+2. Clone new repo locally
+3. `npm i`
+4. Open in VS Code and install recommended extensions, accept recommended settings
 
 ## Run
 
